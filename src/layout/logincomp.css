@@ -1,0 +1,17 @@
+.login{
+    border: 2px solid black;
+    height: 100VH;
+    width: 100vw;
+    background-color: burlywood;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login form{
+    border: 3px solid blue;
+    width: 300px;
+    padding: 30px;
+    box-shadow: 6px 8px 6px black;
+    background-color: rgb(255, 0, 132);
+}

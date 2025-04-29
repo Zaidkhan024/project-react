@@ -1,0 +1,111 @@
+{
+  "products": [
+    {
+      "id": "101",
+      "pname": "Laptop",
+      "pprice": 85000,
+      "pcompany": "Hp"
+    },
+    {
+      "id": "102",
+      "pname": "Wire less Keyboard",
+      "pprice": 110000,
+      "pcompany": "Intel"
+    },
+    {
+      "id": "103",
+      "pname": "Mouse",
+      "pprice": 5000,
+      "pcompany": "Sony"
+    },
+    {
+      "id": "104",
+      "pname": "Laptop",
+      "pprice": 85000,
+      "pcompany": "Lenovo"
+    },
+    {
+      "id": "105",
+      "pname": "Wire less Keyboard",
+      "pprice": 1200,
+      "pcompany": "Frontech"
+    },
+    {
+      "id": "106",
+      "pname": "Mouse",
+      "pprice": 1000,
+      "pcompany": "Sony"
+    },
+    {
+      "id": "107",
+      "pname": "Laptop",
+      "pprice": 70000,
+      "pcompany": "Dell"
+    },
+    {
+      "id": "108",
+      "pname": "Wire less Mouse",
+      "pprice": 110000,
+      "pcompany": "Intel"
+    },
+    {
+      "id": "109",
+      "pname": "Moniter",
+      "pprice": 5000,
+      "pcompany": "Sony"
+    },
+    {
+      "id": "01b7",
+      "pname": "IPHONE 16 PRO",
+      "pprice": "185000",
+      "pcompany": "APPLE"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "uid": "admin@gmail.com",
+      "upass": "admin@123"
+    },
+    {
+      "id": "2",
+      "uid": "aditya@gmail.com",
+      "upass": "aditya@123"
+    },
+    {
+      "id": "3",
+      "uid": "junaid@gmail.com",
+      "upass": "junaid@123"
+    },
+    {
+      "id": "4",
+      "uid": "xyz@gmail.com",
+      "upass": "xyz@123"
+    },
+    {
+      "id": "5",
+      "uid": "abc@gmail.com",
+      "upass": "abc@123"
+    },
+    {
+      "id": "6",
+      "uid": "anjum@gmail.com",
+      "upass": "anjum@123"
+    },
+    {
+      "id": "7",
+      "uid": "rakhi@gmail.com",
+      "upass": "rakhi@123"
+    },
+    {
+      "id": "8",
+      "uid": "hansika@gmail.com",
+      "upass": "hansi@123"
+    },
+    {
+      "id": "9",
+      "uid": "dipesh@gmail.com",
+      "upass": "deep@123"
+    }
+  ]
+}

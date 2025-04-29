@@ -1,0 +1,10 @@
+.special{
+    height : 100px;
+    width: 100px;
+    margin: auto;
+    border: 3px solid green;
+    transition: transform 2s;
+}
+.special:hover{
+    transform: rotateY(350deg);
+}

@@ -1,0 +1,29 @@
+.txtPrimary{
+    color: dodgerblue;
+    font-size: 20px;
+}
+
+.txtDanger{
+    color: tomato;
+    font-size: 20px;
+}
+
+.myform{
+    background-color: #86d3ff;
+    border: 3px solid black;
+    width: 600px;
+    padding: 30px;
+    margin: auto;
+    font-family: sans-serif;
+}
+
+.myform input[type=text],select{
+    display: block;
+    width: 100%;
+    margin: 4px;
+    border-radius: 4px;
+}
+
+#termsandcond {
+    background-color: rgb(255, 230, 197);
+}
